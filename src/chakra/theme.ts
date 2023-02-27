@@ -19,14 +19,14 @@ export const theme = extendTheme({
       500: 'hsl(220, 13%, 13%)',
       600: 'hsl(0, 0%, 0%)',
     },
-    fonts: {
-      body: 'Kumbh Sans',
-    },
+  },
+  fonts: {
+    body: 'Kumbh Sans',
   },
   styles: {
     global: () => ({
       body: {
-        bg: 'gray.200',
+        bg: 'white',
       },
     }),
   },
